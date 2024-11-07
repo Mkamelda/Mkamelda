@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mkamelda
 - A software developer
-- Graphics designer and visual Identities
+- Digital marketer
 - Currently learning data analytics and DevOps
 <!---
 Mkamelda/Mkamelda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
