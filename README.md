@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mkamelda
 - A software developer
+- Graphics designer
 - Digital marketer
 - Currently learning data analytics and DevOps
 <!---
